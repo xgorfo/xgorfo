@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**xgorfo/xgorfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+**Client:** React, Redux, TailwindCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Server:** Node, Express
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at xgorfo@mail.ru
+
+
+# Sosal? 👋
+
+
+#
+
+[![Steam](https://steamuserimages-a.akamaihd.net/ugc/1678143036696607799/A52F22D0B9653B4B643458D6278C8F5489CB4F4C/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)](https://store.steampowered.com/)
+
+
+##  [![xgorfo](https://github-profile-trophy.vercel.app/?username=xgorfo)](https://github.com/ryo-ma/github-profile-xgorfo)[![xgorfo](https://github-readme-stats.vercel.app/api/top-langs/?username=xgorfo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
