@@ -1,14 +1,11 @@
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
+**Client:** In life, you only need Unity, C#, php :)
 
 
 ## Feedback
-
-If you have any feedback, please reach out to us at xgorfo@mail.ru
+I don't need it.
 
 
 # Sosal? 👋
