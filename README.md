@@ -1,13 +1,4 @@
 
-## Tech Stack
-
-**Client:** In life, you only need Unity, C#, php :)
-
-
-## Feedback
-I don't need it.
-
-
 # Sosal? 👋
 
 
