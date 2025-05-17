@@ -1,5 +1,5 @@
 
-# A chick on the veranda oh yes
+# I don't trade with my body :), I trade with my brain.
 
 
 #
