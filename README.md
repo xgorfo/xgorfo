@@ -1,6 +1,5 @@
 
-# 70$ min
-## You can write me. TG, MAIL
+# You can write me. TG, MAIL
 
 
 #
