@@ -45,10 +45,6 @@
   <img width="488" alt="Steam Stats 2" src="https://github.com/user-attachments/assets/62ec06f9-2236-472a-9dc7-cfacb0176d1f" />
 </div>
 
-<div align="center">
-  <img src="https://i.gifer.com/SIvO.gif" height="353" width="450" alt="Cyberpunk Bike">
-</div>
-
 ---
 
 ## 📊 Development Stats
