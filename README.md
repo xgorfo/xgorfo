@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.gifer.com/73Og.gif" width="300" alt="Cyberpunk City">
+  <img src="https://i.gifer.com/73Og.gif" height="353" width="450" alt="Cyberpunk City">
 </div>
 
 ## 💻 Tech Stack
@@ -30,6 +30,14 @@
 
 ## 🎮 Steam Statistics
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/b9/80/71/b98071a8699673a8da114700c2fe2995.gif" height="353" width="450" alt="Cyberpunk City">
+</div>
+
+
+
+
+
 [![Steam Profile](https://img.shields.io/badge/Steam_Profile-View_Stats-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561199229921015)
 [![Steam Games](https://img.shields.io/badge/60+_Games-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561199229921015/games)
 [![Steam Playtime](https://img.shields.io/badge/2000+_Hours-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561199229921015)
@@ -41,7 +49,7 @@
 
 
 <div align="center">
-  <img src="https://i.gifer.com/SIvO.gif" width="280" alt="Cyberpunk Bike">
+  <img src="https://i.gifer.com/SIvO.gif" height="353" width="450" alt="Cyberpunk Bike">
 </div>
 
 ---
@@ -49,7 +57,7 @@
 ## 📊 Development Stats
 
 <div align="center">
-  <img src="https://i.gifer.com/2SGB.gif" width="280" alt="Cyberpunk Tech">
+  <img src="https://i.pinimg.com/originals/cd/71/06/cd71069c66f82a8ada9b07a0ed7437af.gif" height="353" width="450"" alt="Cyberpunk Tech">
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xgorfo&show_icons=true&theme=dark&bg_color=00000000&title_color=00ff88&text_color=00cc66&icon_color=00ff88&hide_border=true&include_all_commits=true)
