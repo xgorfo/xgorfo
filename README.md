@@ -7,6 +7,7 @@
 [![Steam](https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white&animation=glow)](https://steamcommunity.com/profiles/76561199229921015)
 [![Stepik Course](https://img.shields.io/badge/STEPIK_COURSE-00ff88?style=for-the-badge&logo=python&logoColor=black)](https://stepik.org/243773)
 [![Stepik Profile](https://img.shields.io/badge/STEPIK_PROFILE-00cc66?style=for-the-badge&logo=bookstack&logoColor=white)](https://stepik.org/users/985665912/profile)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brain_mng)
 
 ---
 
