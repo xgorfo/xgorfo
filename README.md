@@ -40,14 +40,10 @@
 
 ---
 
-## 📊 Development Stats
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/cd/71/06/cd71069c66f82a8ada9b07a0ed7437af.gif" height="353" width="450" alt="Cyberpunk Tech">
 </div>
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgorfo&layout=compact&theme=dark&bg_color=00000000&title_color=00ff88&text_color=00cc66&hide_border=true&langs_count=8)
 
 ---
 
