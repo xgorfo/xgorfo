@@ -8,7 +8,6 @@
 [![Stepik Course](https://img.shields.io/badge/STEPIK_COURSE-00ff88?style=for-the-badge&logo=python&logoColor=black)](https://stepik.org/243773)
 [![Stepik Profile](https://img.shields.io/badge/STEPIK_PROFILE-00cc66?style=for-the-badge&logo=bookstack&logoColor=white)](https://stepik.org/users/985665912/profile)
 [![Apple Music](https://img.shields.io/badge/APPLE_MUSIC-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com)
-[![Discord](https://img.shields.io/badge/DISCORD-xgorfo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/782352234557603871)
 
 ---
 
