@@ -37,11 +37,6 @@
 [![Steam Playtime](https://img.shields.io/badge/2000+_Hours-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561199229921015)
 [![Steam Achievements](https://img.shields.io/badge/340+_Achievements-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561199229921015/stats)
 
-<div align="center">
-  <img width="369" alt="Steam Stats 1" src="https://github.com/user-attachments/assets/f5bc65dd-f6c2-4e0b-bfb5-4ea168f797bd" />
-  <img width="488" alt="Steam Stats 2" src="https://github.com/user-attachments/assets/62ec06f9-2236-472a-9dc7-cfacb0176d1f" />
-</div>
-
 ---
 
 ## 📊 Development Stats
