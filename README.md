@@ -11,9 +11,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://i.gifer.com/73Og.gif" height="353" width="450" alt="Cyberpunk City">
-</div>
 
 ## 💻 Tech Stack
 
