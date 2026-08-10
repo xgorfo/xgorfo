@@ -9,8 +9,6 @@
 [![Stepik Profile](https://img.shields.io/badge/STEPIK_PROFILE-00cc66?style=for-the-badge&logo=bookstack&logoColor=white)](https://stepik.org/users/985665912/profile)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brain_mng)
 
----
-
 
 ## 💻 Tech Stack
 
@@ -34,13 +32,6 @@
 [![Steam Games](https://img.shields.io/badge/60+_Games-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561199229921015/games)
 [![Steam Playtime](https://img.shields.io/badge/2000+_Hours-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561199229921015)
 [![Steam Achievements](https://img.shields.io/badge/340+_Achievements-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561199229921015/stats)
-
----
-
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/cd/71/06/cd71069c66f82a8ada9b07a0ed7437af.gif" height="353" width="450" alt="Cyberpunk Tech">
-</div>
 
 ---
 
